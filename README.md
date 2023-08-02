@@ -1,0 +1,12 @@
+To run this project: 
+- git clone
+- open in code editor
+- new terminal
+- cd backend
+- npm install
+- npm start
+- new terminal
+- cd frontend
+- npm install
+- npm start
+- open http://localhost::3000
